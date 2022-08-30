@@ -1,0 +1,1 @@
+this is read me file inside 0x00-vagrant
